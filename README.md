@@ -23,7 +23,7 @@ Why: Provides quick deployment and user-friendly frontend for ML models.
 Category: Web Interface Library.
 
 🧱 Other Frontend Technologies
-HTML/CSS: For creating the structure and styling of your webpage.
-JavaScript (typo alert: should be "text/javascript" not "text/javacript"): For frontend behavior (like handling button clicks or dynamic updates).
-SVGs and Icons: Used for representing each tool visually.
-Tooltip Effects: Enhanced user interface showing descriptions on hover.
+- HTML/CSS: For creating the structure and styling of your webpage.
+- JavaScript (typo alert: should be "text/javascript" not "text/javacript"): For frontend behavior (like handling button clicks or dynamic updates).
+- SVGs and Icons: Used for representing each tool visually.
+- Tooltip Effects: Enhanced user interface showing descriptions on hover.
